@@ -1,0 +1,1 @@
+Replicate the [Sourcegraph Alpine base image](https://sourcegraph.sourcegraph.com/github.com/sourcegraph/sourcegraph/-/blob/docker-images/alpine-3.14/Dockerfile) by building a distroless image from scratch using [apko](https://github.com/chainguard-dev/apko).

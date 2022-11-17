@@ -1,0 +1,7 @@
+# Apko build artifact
+*.tar
+
+# Apko SBOM build artifacts
+*.cdx
+*.spdx.json
+
